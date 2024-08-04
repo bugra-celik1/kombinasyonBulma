@@ -1,0 +1,1 @@
+# Klavyeden girilen n ve r sayılarına göre kombinasyon hesaplar.
